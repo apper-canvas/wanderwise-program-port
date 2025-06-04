@@ -23,7 +23,7 @@ const HeroSection = ({ isLoaded }) => {
           variants={heroVariants}
           initial="hidden"
           animate={isLoaded ? "visible" : "hidden"}
-          className="text-center mb-16"
+className="text-center mb-16"
         >
           <div className="relative mb-8">
             <div className="absolute inset-0 bg-gradient-to-r from-primary/20 via-secondary/20 to-accent/20 blur-3xl"></div>
@@ -33,12 +33,13 @@ const HeroSection = ({ isLoaded }) => {
                 Adventure
               </span>
             </span>
-          </Heading>
-          
-          <Paragraph className="text-lg md:text-xl text-surface-600 max-w-3xl mx-auto mb-8 leading-relaxed text-center">
-            Transform your travel dreams into reality with our intelligent trip planning platform. 
-            Organize itineraries, collaborate with friends, and manage budgets—all in one beautiful interface.
-          </Paragraph>
+          </div>
+        </Heading>
+        
+        <Paragraph className="text-lg md:text-xl text-surface-600 max-w-3xl mx-auto mb-8 leading-relaxed text-center">
+          Transform your travel dreams into reality with our intelligent trip planning platform. 
+          Organize itineraries, collaborate with friends, and manage budgets—all in one beautiful interface.
+        </Paragraph>
           
           <motion.div 
             initial={{ opacity: 0, y: 20 }}
@@ -50,11 +51,10 @@ const HeroSection = ({ isLoaded }) => {
               Start Planning
             </Button>
             
-            <Button variant="outline" icon="Play">
+<Button variant="outline" icon="Play">
               Watch Demo
             </Button>
           </motion.div>
-        </motion.div>
 
         {/* Floating Elements */}
         <div className="relative">
