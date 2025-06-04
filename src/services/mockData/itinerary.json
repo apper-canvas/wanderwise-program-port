@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "tripId": "1",
+    "date": "2024-07-15",
+    "activities": ["1", "2"],
+    "notes": "Arrival day in Paris - take it easy and explore the neighborhood",
+    "createdAt": "2024-01-15T10:35:00Z"
+  },
+  {
+    "id": "2", 
+    "tripId": "1",
+    "date": "2024-07-16",
+    "activities": ["3", "4", "5"],
+    "notes": "Full day exploring Paris landmarks",
+    "createdAt": "2024-01-15T10:36:00Z"
+  },
+  {
+    "id": "3",
+    "tripId": "1", 
+    "date": "2024-07-17",
+    "activities": ["6"],
+    "notes": "Travel day to Rome",
+    "createdAt": "2024-01-15T10:37:00Z"
+  },
+  {
+    "id": "4",
+    "tripId": "2",
+    "date": "2024-04-01",
+    "activities": ["7", "8"],
+    "notes": "Arrival in Tokyo and first cherry blossom viewing",
+    "createdAt": "2024-01-20T14:20:00Z"
+  },
+  {
+    "id": "5",
+    "tripId": "2",
+    "date": "2024-04-02", 
+    "activities": ["9", "10"],
+    "notes": "Traditional Tokyo experience",
+    "createdAt": "2024-01-20T14:21:00Z"
+  },
+  {
+    "id": "6",
+    "tripId": "3",
+    "date": "2024-06-08",
+    "activities": ["11", "12"],
+    "notes": "NYC arrival and Times Square exploration",
+    "createdAt": "2024-02-01T09:50:00Z"
+  },
+  {
+    "id": "7",
+    "tripId": "3",
+    "date": "2024-06-09",
+    "activities": ["13", "14", "15"],
+    "notes": "Full Manhattan day",
+    "createdAt": "2024-02-01T09:51:00Z"
+  },
+  {
+    "id": "8",
+    "tripId": "4",
+    "date": "2024-09-20",
+    "activities": ["16", "17"],
+    "notes": "Arrive in Bali and settle in Ubud",
+    "createdAt": "2024-02-10T16:25:00Z"
+  },
+  {
+    "id": "9",
+    "tripId": "5",
+    "date": "2024-11-15",
+    "activities": ["18", "19"],
+    "notes": "Arrival in Reykjavik and first Northern Lights tour",
+    "createdAt": "2024-02-15T11:35:00Z"
+  }
+]

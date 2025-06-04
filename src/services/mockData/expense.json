@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1",
+    "tripId": "1",
+    "amount": 85,
+    "currency": "EUR",
+    "category": "food",
+    "description": "Welcome dinner at Bistro Paul Bert",
+    "date": "2024-07-15",
+    "paidBy": "user1",
+    "createdAt": "2024-01-15T10:50:00Z"
+  },
+  {
+    "id": "2",
+    "tripId": "1",
+    "amount": 29.40,
+    "currency": "EUR",
+    "category": "attraction",
+    "description": "Eiffel Tower tickets",
+    "date": "2024-07-16",
+    "paidBy": "user2",
+    "createdAt": "2024-01-15T10:51:00Z"
+  },
+  {
+    "id": "3",
+    "tripId": "1",
+    "amount": 178,
+    "currency": "EUR",
+    "category": "transport",
+    "description": "High-speed train to Rome",
+    "date": "2024-07-17",
+    "paidBy": "user1",
+    "createdAt": "2024-01-15T10:52:00Z"
+  },
+  {
+    "id": "4",
+    "tripId": "2",
+    "amount": 250,
+    "currency": "JPY",
+    "category": "food",
+    "description": "Traditional Kaiseki dinner",
+    "date": "2024-04-01",
+    "paidBy": "user1",
+    "createdAt": "2024-01-20T14:30:00Z"
+  },
+  {
+    "id": "5",
+    "tripId": "2", 
+    "amount": 95,
+    "currency": "JPY",
+    "category": "activity",
+    "description": "Sushi making class",
+    "date": "2024-04-02",
+    "paidBy": "user1",
+    "createdAt": "2024-01-20T14:31:00Z"
+  },
+  {
+    "id": "6",
+    "tripId": "3",
+    "amount": 150,
+    "currency": "USD",
+    "category": "entertainment",
+    "description": "Broadway show tickets",
+    "date": "2024-06-08",
+    "paidBy": "user2",
+    "createdAt": "2024-02-01T10:00:00Z"
+  },
+  {
+    "id": "7",
+    "tripId": "3",
+    "amount": 28.50,
+    "currency": "USD",
+    "category": "attraction",
+    "description": "Statue of Liberty ferry",
+    "date": "2024-06-09",
+    "paidBy": "user3",
+    "createdAt": "2024-02-01T10:01:00Z"
+  },
+  {
+    "id": "8",
+    "tripId": "3",
+    "amount": 120,
+    "currency": "USD",
+    "category": "food",
+    "description": "Rooftop dinner",
+    "date": "2024-06-09",
+    "paidBy": "user1",
+    "createdAt": "2024-02-01T10:02:00Z"
+  },
+  {
+    "id": "9",
+    "tripId": "4",
+    "amount": 75,
+    "currency": "USD",
+    "category": "wellness",
+    "description": "Balinese spa treatment",
+    "date": "2024-09-20",
+    "paidBy": "user1",
+    "createdAt": "2024-02-10T16:35:00Z"
+  },
+  {
+    "id": "10",
+    "tripId": "4",
+    "amount": 15,
+    "currency": "USD",
+    "category": "activity",
+    "description": "Rice terrace trek guide",
+    "date": "2024-09-20",
+    "paidBy": "user4",
+    "createdAt": "2024-02-10T16:36:00Z"
+  },
+  {
+    "id": "11",
+    "tripId": "5",
+    "amount": 85,
+    "currency": "USD",
+    "category": "wellness",
+    "description": "Blue Lagoon spa entry",
+    "date": "2024-11-15",
+    "paidBy": "user1",
+    "createdAt": "2024-02-15T11:45:00Z"
+  },
+  {
+    "id": "12",
+    "tripId": "5",
+    "amount": 120,
+    "currency": "USD",
+    "category": "activity",
+    "description": "Northern Lights tour",
+    "date": "2024-11-15",
+    "paidBy": "user1",
+    "createdAt": "2024-02-15T11:46:00Z"
+  }
+]

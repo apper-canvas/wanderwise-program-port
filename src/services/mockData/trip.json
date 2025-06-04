@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "name": "European Summer Adventure",
+    "startDate": "2024-07-15",
+    "endDate": "2024-07-28",
+    "destinations": ["Paris, France", "Rome, Italy", "Barcelona, Spain"],
+    "participants": ["user1", "user2"],
+    "budget": 5500,
+    "status": "planning",
+    "createdAt": "2024-01-15T10:30:00Z"
+  },
+  {
+    "id": "2", 
+    "name": "Tokyo Cherry Blossom Tour",
+    "startDate": "2024-04-01",
+    "endDate": "2024-04-10",
+    "destinations": ["Tokyo, Japan", "Kyoto, Japan", "Osaka, Japan"],
+    "participants": ["user1"],
+    "budget": 3200,
+    "status": "confirmed",
+    "createdAt": "2024-01-20T14:15:00Z"
+  },
+  {
+    "id": "3",
+    "name": "New York City Weekend",
+    "startDate": "2024-06-08",
+    "endDate": "2024-06-11",
+    "destinations": ["New York City, USA"],
+    "participants": ["user1", "user2", "user3"],
+    "budget": 1800,
+    "status": "planning",
+    "createdAt": "2024-02-01T09:45:00Z"
+  },
+  {
+    "id": "4",
+    "name": "Bali Island Retreat",
+    "startDate": "2024-09-20",
+    "endDate": "2024-10-05",
+    "destinations": ["Ubud, Bali", "Seminyak, Bali", "Nusa Penida, Bali"],
+    "participants": ["user1", "user4"],
+    "budget": 2800,
+    "status": "planning",
+    "createdAt": "2024-02-10T16:20:00Z"
+  },
+  {
+    "id": "5",
+    "name": "Iceland Northern Lights",
+    "startDate": "2024-11-15",
+    "endDate": "2024-11-22",
+    "destinations": ["Reykjavik, Iceland", "Golden Circle, Iceland"],
+    "participants": ["user1"],
+    "budget": 2400,
+    "status": "planning",
+    "createdAt": "2024-02-15T11:30:00Z"
+  }
+]

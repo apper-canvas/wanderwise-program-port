@@ -1,0 +1,249 @@
+[
+  {
+    "id": "1",
+    "name": "Check-in at Hotel Le Marais",
+    "location": {
+      "name": "Le Marais District, Paris",
+      "coordinates": { "lat": 48.8566, "lng": 2.3522 }
+    },
+    "startTime": "15:00",
+    "duration": 60,
+    "cost": 0,
+    "category": "accommodation",
+    "createdAt": "2024-01-15T10:40:00Z"
+  },
+  {
+    "id": "2",
+    "name": "Welcome Dinner at Bistro Paul Bert",
+    "location": {
+      "name": "11th Arrondissement, Paris",
+      "coordinates": { "lat": 48.8584, "lng": 2.3776 }
+    },
+    "startTime": "19:30",
+    "duration": 120,
+    "cost": 85,
+    "category": "food",
+    "createdAt": "2024-01-15T10:41:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Eiffel Tower Visit",
+    "location": {
+      "name": "Champ de Mars, Paris",
+      "coordinates": { "lat": 48.8584, "lng": 2.2945 }
+    },
+    "startTime": "09:00",
+    "duration": 180,
+    "cost": 29.40,
+    "category": "sightseeing",
+    "createdAt": "2024-01-15T10:42:00Z"
+  },
+  {
+    "id": "4",
+    "name": "Louvre Museum Tour",
+    "location": {
+      "name": "1st Arrondissement, Paris",
+      "coordinates": { "lat": 48.8606, "lng": 2.3376 }
+    },
+    "startTime": "14:00",
+    "duration": 240,
+    "cost": 17,
+    "category": "sightseeing",
+    "createdAt": "2024-01-15T10:43:00Z"
+  },
+  {
+    "id": "5",
+    "name": "Seine River Cruise",
+    "location": {
+      "name": "Port de la Bourdonnais, Paris",
+      "coordinates": { "lat": 48.8606, "lng": 2.2946 }
+    },
+    "startTime": "20:00",
+    "duration": 90,
+    "cost": 16,
+    "category": "activity",
+    "createdAt": "2024-01-15T10:44:00Z"
+  },
+  {
+    "id": "6",
+    "name": "High-speed train to Rome",
+    "location": {
+      "name": "Gare de Lyon, Paris",
+      "coordinates": { "lat": 48.8447, "lng": 2.3725 }
+    },
+    "startTime": "07:30",
+    "duration": 660,
+    "cost": 178,
+    "category": "transport",
+    "createdAt": "2024-01-15T10:45:00Z"
+  },
+  {
+    "id": "7",
+    "name": "Cherry Blossom Viewing at Ueno Park",
+    "location": {
+      "name": "Ueno Park, Tokyo",
+      "coordinates": { "lat": 35.7148, "lng": 139.7744 }
+    },
+    "startTime": "10:00",
+    "duration": 120,
+    "cost": 0,
+    "category": "sightseeing",
+    "createdAt": "2024-01-20T14:25:00Z"
+  },
+  {
+    "id": "8",
+    "name": "Traditional Kaiseki Dinner",
+    "location": {
+      "name": "Ginza District, Tokyo",
+      "coordinates": { "lat": 35.6762, "lng": 139.7654 }
+    },
+    "startTime": "18:00",
+    "duration": 150,
+    "cost": 250,
+    "category": "food",
+    "createdAt": "2024-01-20T14:26:00Z"
+  },
+  {
+    "id": "9",
+    "name": "Senso-ji Temple Visit",
+    "location": {
+      "name": "Asakusa, Tokyo",
+      "coordinates": { "lat": 35.7148, "lng": 139.7967 }
+    },
+    "startTime": "09:00",
+    "duration": 90,
+    "cost": 0,
+    "category": "sightseeing",
+    "createdAt": "2024-01-20T14:27:00Z"
+  },
+  {
+    "id": "10",
+    "name": "Sushi Making Class",
+    "location": {
+      "name": "Shibuya, Tokyo",
+      "coordinates": { "lat": 35.6598, "lng": 139.7006 }
+    },
+    "startTime": "15:00",
+    "duration": 180,
+    "cost": 95,
+    "category": "activity",
+    "createdAt": "2024-01-20T14:28:00Z"
+  },
+  {
+    "id": "11",
+    "name": "Times Square Exploration",
+    "location": {
+      "name": "Times Square, NYC",
+      "coordinates": { "lat": 40.7580, "lng": -73.9855 }
+    },
+    "startTime": "16:00",
+    "duration": 120,
+    "cost": 0,
+    "category": "sightseeing",
+    "createdAt": "2024-02-01T09:55:00Z"
+  },
+  {
+    "id": "12",
+    "name": "Broadway Show - The Lion King",
+    "location": {
+      "name": "Minskoff Theatre, NYC",
+      "coordinates": { "lat": 40.7575, "lng": -73.9857 }
+    },
+    "startTime": "20:00",
+    "duration": 165,
+    "cost": 150,
+    "category": "activity",
+    "createdAt": "2024-02-01T09:56:00Z"
+  },
+  {
+    "id": "13",
+    "name": "Statue of Liberty Ferry Tour",
+    "location": {
+      "name": "Battery Park, NYC",
+      "coordinates": { "lat": 40.7033, "lng": -74.0170 }
+    },
+    "startTime": "09:30",
+    "duration": 240,
+    "cost": 28.50,
+    "category": "sightseeing",
+    "createdAt": "2024-02-01T09:57:00Z"
+  },
+  {
+    "id": "14",
+    "name": "Central Park Bike Ride",
+    "location": {
+      "name": "Central Park, NYC",
+      "coordinates": { "lat": 40.7829, "lng": -73.9654 }
+    },
+    "startTime": "15:00",
+    "duration": 120,
+    "cost": 25,
+    "category": "activity",
+    "createdAt": "2024-02-01T09:58:00Z"
+  },
+  {
+    "id": "15",
+    "name": "Rooftop Dinner with City Views",
+    "location": {
+      "name": "230 Fifth Rooftop, NYC",
+      "coordinates": { "lat": 40.7444, "lng": -73.9896 }
+    },
+    "startTime": "19:00",
+    "duration": 150,
+    "cost": 120,
+    "category": "food",
+    "createdAt": "2024-02-01T09:59:00Z"
+  },
+  {
+    "id": "16",
+    "name": "Ubud Rice Terrace Trek",
+    "location": {
+      "name": "Tegallalang Rice Terraces, Bali",
+      "coordinates": { "lat": -8.4309, "lng": 115.2840 }
+    },
+    "startTime": "08:00",
+    "duration": 180,
+    "cost": 15,
+    "category": "activity",
+    "createdAt": "2024-02-10T16:30:00Z"
+  },
+  {
+    "id": "17",
+    "name": "Traditional Balinese Spa Treatment",
+    "location": {
+      "name": "Spa Ubud, Bali",
+      "coordinates": { "lat": -8.5069, "lng": 115.2625 }
+    },
+    "startTime": "16:00",
+    "duration": 120,
+    "cost": 75,
+    "category": "activity",
+    "createdAt": "2024-02-10T16:31:00Z"
+  },
+  {
+    "id": "18",
+    "name": "Blue Lagoon Geothermal Spa",
+    "location": {
+      "name": "Grindavík, Iceland",
+      "coordinates": { "lat": 63.8804, "lng": -22.4495 }
+    },
+    "startTime": "14:00",
+    "duration": 180,
+    "cost": 85,
+    "category": "activity",
+    "createdAt": "2024-02-15T11:40:00Z"
+  },
+  {
+    "id": "19",
+    "name": "Northern Lights Photography Tour",
+    "location": {
+      "name": "Thingvellir National Park, Iceland",
+      "coordinates": { "lat": 64.2558, "lng": -21.1292 }
+    },
+    "startTime": "21:00",
+    "duration": 240,
+    "cost": 120,
+    "category": "activity",
+    "createdAt": "2024-02-15T11:41:00Z"
+  }
+]
